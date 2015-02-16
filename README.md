@@ -1,5 +1,6 @@
 # generator-css-testing 
 [![Build Status](https://secure.travis-ci.org/adcarabajal/generator-css-testing.png?branch=master)](https://travis-ci.org/adcarabajal/generator-css-testing)
+[![generator-css-testing API Documentation](https://www.omniref.com/js/npm/generator-css-testing.png)](https://www.omniref.com/js/npm/generator-css-testing)
 
 > [Yeoman] generator to create an example of how to test CSS using webdriver
 
